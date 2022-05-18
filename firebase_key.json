@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "valney-fitness",
+  "private_key_id": "92f4c9bed4bc600137d89d84567bba81cfcf4e1b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDad/Uq6Id6RDaL\na7U6JnMLXfRwxbrO8s3omkbEC5RpLgkcSEfe2NpOC0K4ejz0U2cS9p0yp5xTFOaB\nmf6AzotVQe1d/u4VyCAj99Pah/RlcwC1BZwQtlqizwuMpKIJ2++SM4a0jeV4yJAQ\np81CR3JBn4mEQiZQk/AaiO1M2ToN0tAkzE37pbOdrQWRUkX6VUM1QGqelEss8JrA\nQidxyNUrRE+TQytxz3j35XVwD5GXZaVSxGTGwIYC3qwsgxMfHd6+jLf4LsvCbXCp\nLSlhMRD6VHFR/qZhkrHsX4GpI9/i57SrvlK08V0XpxAQZ0bXK/7Q0WVFX5l6Vw/6\n7lUrfCCfAgMBAAECggEAA1C71Eszvq56/d5u6Gir2vDcZ8lE1bNg7Fm75k0Q6IHv\nj+cXkspLdO1MYD5Q3yhUanHP3nReQ/MsBpAkCO7SYHwRwKdO96XgZFJ0X17zQU2K\nQjUCJE1zsgAlsw4kGLWKEjCyNdqSvpZi0U3jfd85QFOxlVV14PJ/kRP3GmLliTKV\noSpfOLeqy1cBBiufLW7LWnhv39S1A3rhvDXztejXBD3mRws1Ia8k0zJrZj5ycuMS\nJj5vBsUzG4dfeH8WeG0rrtIB4Zxss3WjZMbt/hQU7NvCJnPBWGyA8gxCutepwo3t\nFW6ceToMT90rKmX2wNzndsK9Dspy2ULtNd7A/YD/UQKBgQDtu6L2WCYrW6LmcF/x\n3/XgP2CfRJJ4ajfboLpmt2yKfJ7v3DxvWdYV4A0kX6LFzq+JV322E0Ww3IragVJb\nZDuDPL8wTW5AAKnRhUyR4WaWMnRzVE9etQd2nNxYDp7xHBOpsiFR8ZKvoVeQoBJu\nCq2eJoYlzFWIeytkZLXwpK4UpwKBgQDrQWDXZrG8n3/jn8PZeufHTrP51/vxbdWx\nFdRdQ3/jrAlP6eVBio+xXq6MyDhzd3BfbO0Q1TodAYnQ9W+A6gYbrH8vZAfv+Rqa\nmafD8RXtBnKfeG6qyN5G+wDGP6t5QoTbPCiYlf14US2gq1Qtuoj9bFKPIYkWMNmG\nB6heoDR7SQKBgQDKkX7bj+L+QPf+iTSH4kEdUoOfUovIBSIRh9QtIBBhtKytT6lD\nbHYqb55jJwaIrIQQcDeTBLr2aAX9CALIExFO011J6ECQUsBg4seK6lhClT165BU5\nauGwJRrwAY1Xf4gVqc4Qh9powv7dIjhyAbFMuCDIZmNfhyxDQDlzkq8uswKBgGZ5\nVPiex/70rx10ozfhXIKpmqXS2fDBOhrn+lghpdyDPI8tv+n7tDm7l2bFdCl/tlgq\nt1zktGqcF+8IaeiKh9yYF9KJzRdPt7HuCnDEXBuh+l3SdMo5svDSNvUkGMo6Gmrw\n2nIUq5M0MR7SYlmE7lUNUSz9m5wp7SZ/wWxudk3ZAoGAWAVGZ5DRF4sJHS+4vfCJ\n2yeeXADChqfAuFGeC4oL5oAGvdvUIGKkZeVbA70GyGnIC/rcsetW0GxB9Z3ZRUac\nQkllMFlnHzqwHZUaqcBMjkdSA0/1PM8qCkHbHCIMPLXyEuFzSyabU3h+FlcUjqwi\nspgHf9QdzRPbjYCQtoPEISY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-w62k9@valney-fitness.iam.gserviceaccount.com",
+  "client_id": "112935564919986534360",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-w62k9%40valney-fitness.iam.gserviceaccount.com"
+}
